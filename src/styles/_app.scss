@@ -60,6 +60,9 @@ $clip-path: polygon(2% 0%, 100% 0%, 98% 100%, 0% 100%);
     height: 40px;
     color: $secondary-color;
     padding: 10px;
+     &:hover {
+      background-color: $primary-color;
+    }
   }
 }
 
