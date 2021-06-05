@@ -9,7 +9,13 @@ export default class Header extends Component {
       <Typography>
         <footer className='footerContainer'>
           <p>
-            Created by <a href='https://www.pakkamarwadi.tk/'>shravanmeena</a>
+            Created by{" "}
+            <a
+              href='https://www.pakkamarwadi.tk/'
+              target='_blank'
+              rel='noreferrer'>
+              shravanmeena
+            </a>
           </p>
         </footer>
       </Typography>
